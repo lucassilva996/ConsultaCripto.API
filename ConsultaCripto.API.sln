@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCripto.API", "ConsultaCripto.API\ConsultaCripto.API.csproj", "{6124347F-4D51-4B21-B421-67132184EBF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCripto.Application", "ConsultaCripto.Application\ConsultaCripto.Application.csproj", "{57D55893-A9A1-407D-B390-3BDADEB8A382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCripto.Data", "ConsultaCripto.Data\ConsultaCripto.Data.csproj", "{1AD8406F-C71A-45C2-89F4-DF850A573BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCripto.Domain", "ConsultaCripto.Domain\ConsultaCripto.Domain.csproj", "{35DC1970-7EC7-4D51-9A07-B11E0714FA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCripto.Infra", "ConsultaCripto.Infra\ConsultaCripto.Infra.csproj", "{928F1009-8124-428A-BCB3-B07B20FF7714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCripto.Shared", "ConsultaCripto.Shared\ConsultaCripto.Shared.csproj", "{E54B6FED-A7F0-472C-8CEA-0AB2246871DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6124347F-4D51-4B21-B421-67132184EBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6124347F-4D51-4B21-B421-67132184EBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6124347F-4D51-4B21-B421-67132184EBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6124347F-4D51-4B21-B421-67132184EBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D55893-A9A1-407D-B390-3BDADEB8A382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D55893-A9A1-407D-B390-3BDADEB8A382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D55893-A9A1-407D-B390-3BDADEB8A382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D55893-A9A1-407D-B390-3BDADEB8A382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD8406F-C71A-45C2-89F4-DF850A573BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD8406F-C71A-45C2-89F4-DF850A573BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD8406F-C71A-45C2-89F4-DF850A573BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD8406F-C71A-45C2-89F4-DF850A573BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DC1970-7EC7-4D51-9A07-B11E0714FA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DC1970-7EC7-4D51-9A07-B11E0714FA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DC1970-7EC7-4D51-9A07-B11E0714FA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DC1970-7EC7-4D51-9A07-B11E0714FA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928F1009-8124-428A-BCB3-B07B20FF7714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928F1009-8124-428A-BCB3-B07B20FF7714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928F1009-8124-428A-BCB3-B07B20FF7714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928F1009-8124-428A-BCB3-B07B20FF7714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54B6FED-A7F0-472C-8CEA-0AB2246871DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54B6FED-A7F0-472C-8CEA-0AB2246871DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54B6FED-A7F0-472C-8CEA-0AB2246871DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54B6FED-A7F0-472C-8CEA-0AB2246871DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
