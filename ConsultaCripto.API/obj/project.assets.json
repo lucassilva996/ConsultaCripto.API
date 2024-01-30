@@ -107,6 +107,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ConsultaCripto.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ConsultaCripto.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsultaCripto.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsultaCripto.Application.dll": {}
+        }
+      },
+      "ConsultaCripto.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ConsultaCripto.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsultaCripto.Domain.dll": {}
+        }
       }
     }
   },
@@ -460,10 +483,21 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ConsultaCripto.Application/1.0.0": {
+      "type": "project",
+      "path": "../ConsultaCripto.Application/ConsultaCripto.Application.csproj",
+      "msbuildProject": "../ConsultaCripto.Application/ConsultaCripto.Application.csproj"
+    },
+    "ConsultaCripto.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ConsultaCripto.Domain/ConsultaCripto.Domain.csproj",
+      "msbuildProject": "../ConsultaCripto.Domain/ConsultaCripto.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ConsultaCripto.Application >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.14",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -493,7 +527,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/ConsultaCripto.Application.csproj": {
+              "projectPath": "/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/ConsultaCripto.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,12 @@
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/bin/Debug/net7.0/ConsultaCripto.Domain.deps.json
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/bin/Debug/net7.0/ConsultaCripto.Domain.dll
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/bin/Debug/net7.0/ConsultaCripto.Domain.pdb
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/ConsultaCripto.Domain.csproj.AssemblyReference.cache
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/ConsultaCripto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/ConsultaCripto.Domain.AssemblyInfoInputs.cache
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/ConsultaCripto.Domain.AssemblyInfo.cs
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/ConsultaCripto.Domain.csproj.CoreCompileInputs.cache
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/ConsultaCripto.Domain.dll
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/refint/ConsultaCripto.Domain.dll
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/ConsultaCripto.Domain.pdb
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Domain/obj/Debug/net7.0/ref/ConsultaCripto.Domain.dll

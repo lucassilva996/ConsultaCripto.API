@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsultaCripto.Application/1.0.0": {
+        "dependencies": {
+          "ConsultaCripto.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ConsultaCripto.Application.dll": {}
+        }
+      },
+      "ConsultaCripto.Domain/1.0.0": {
+        "runtime": {
+          "ConsultaCripto.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsultaCripto.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsultaCripto.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

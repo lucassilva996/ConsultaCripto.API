@@ -1,0 +1,15 @@
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/bin/Debug/net7.0/ConsultaCripto.Application.deps.json
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/bin/Debug/net7.0/ConsultaCripto.Application.dll
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/bin/Debug/net7.0/ConsultaCripto.Application.pdb
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/bin/Debug/net7.0/ConsultaCripto.Domain.dll
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/bin/Debug/net7.0/ConsultaCripto.Domain.pdb
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ConsultaCripto.Application.csproj.AssemblyReference.cache
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ConsultaCripto.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ConsultaCripto.Application.AssemblyInfoInputs.cache
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ConsultaCripto.Application.AssemblyInfo.cs
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ConsultaCripto.Application.csproj.CoreCompileInputs.cache
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ConsultaCripto.Application.csproj.CopyComplete
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ConsultaCripto.Application.dll
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/refint/ConsultaCripto.Application.dll
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ConsultaCripto.Application.pdb
+/Users/lucas/Desktop/Dev/ConsultaCripto.API/ConsultaCripto.Application/obj/Debug/net7.0/ref/ConsultaCripto.Application.dll
