@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace ConsultaCripto.Domain.Entities.Response
 {
-    public class CriptoApiResponse
+    public class CriptoApiResponseSingle
     {
-        public List<CriptoInfo> data { get; set; }
+        public CriptoInfo data { get; set; }
+
     }
 }

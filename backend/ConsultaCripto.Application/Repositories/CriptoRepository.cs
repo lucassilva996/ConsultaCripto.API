@@ -19,7 +19,7 @@ namespace ConsultaCripto.Application.Repositories
 
             string jsonString = await response.Content.ReadAsStringAsync();
             var cryptoApiResponse = JsonSerializer.Deserialize<CriptoApiResponse>(jsonString);
-            return cryptoApiResponse.dataList;
+            return cryptoApiResponse.data;
         }
 
         public async Task<CriptoInfo> ConsultaCriptosById(string id)
@@ -29,8 +29,7 @@ namespace ConsultaCripto.Application.Repositories
             HttpResponseMessage response = await httpClient.GetAsync(url);
             
             string jsonString = await response.Content.ReadAsStringAsync();
-            var cryptoApiResponse = JsonSerializer.Deserialize<CriptoApiResponse>(jsonString);
-            
+            var cryptoApiResponse = JsonSerializer.Deserialize<CriptoApiResponseSingle>(jsonString);
             return cryptoApiResponse.data;
         }
     }
